@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working at Huawei as an Android Developer.
-- 👯 I’m currently collaborating on [Explore-In-HMS](https://github.com/Explore-In-HMS)
+- 🔭 I’m currently working at Mobillium as an Android Developer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=basakyardim)](https://github.com/anuraghazra/github-readme-stats)
 
